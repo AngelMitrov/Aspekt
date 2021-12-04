@@ -16,9 +16,5 @@ namespace Aspekt.InterviewApp.Domain
             public DbSet<Country> Countries { get; set; }
             public DbSet<Contact> Contacts { get; set; }
 
-            //protected override void OnModelCreating(ModelBuilder modelBuilder)
-            //{
-            //    base.OnModelCreating(modelBuilder);
-            //}
     }
 }
