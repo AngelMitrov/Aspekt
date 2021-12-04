@@ -1,0 +1,42 @@
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Services.deps.json
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Services.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\ref\Aspekt.InterviewApp.Services.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Services.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Mappers.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Mappers.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\ref\Aspekt.InterviewApp.Services.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.csproj.CopyComplete
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Services.deps.json
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Services.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\ref\Aspekt.InterviewApp.Services.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Services.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Mappers.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Mappers.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\ref\Aspekt.InterviewApp.Services.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Services\obj\Debug\net5.0\Aspekt.InterviewApp.Services.csproj.CopyComplete

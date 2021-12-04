@@ -1,0 +1,12 @@
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\obj\Debug\net5.0\Aspekt.InterviewApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\obj\Debug\net5.0\Aspekt.InterviewApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\obj\Debug\net5.0\Aspekt.InterviewApp.DTOs.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\obj\Debug\net5.0\Aspekt.InterviewApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.deps.json
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\bin\Debug\net5.0\ref\Aspekt.InterviewApp.DTOs.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\obj\Debug\net5.0\Aspekt.InterviewApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\obj\Debug\net5.0\Aspekt.InterviewApp.DTOs.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\obj\Debug\net5.0\ref\Aspekt.InterviewApp.DTOs.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DTOs\obj\Debug\net5.0\Aspekt.InterviewApp.DTOs.pdb

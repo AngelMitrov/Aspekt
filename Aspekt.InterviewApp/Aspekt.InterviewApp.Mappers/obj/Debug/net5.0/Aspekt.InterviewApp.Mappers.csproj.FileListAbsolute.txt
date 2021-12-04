@@ -1,0 +1,17 @@
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\Aspekt.InterviewApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\Aspekt.InterviewApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\Aspekt.InterviewApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\Aspekt.InterviewApp.Mappers.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\Aspekt.InterviewApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\bin\Debug\net5.0\Aspekt.InterviewApp.Mappers.deps.json
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\bin\Debug\net5.0\Aspekt.InterviewApp.Mappers.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\bin\Debug\net5.0\ref\Aspekt.InterviewApp.Mappers.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\bin\Debug\net5.0\Aspekt.InterviewApp.Mappers.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\bin\Debug\net5.0\Aspekt.InterviewApp.DTOs.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\Aspekt.InterviewApp.Mappers.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\ref\Aspekt.InterviewApp.Mappers.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\Aspekt.InterviewApp.Mappers.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Mappers\obj\Debug\net5.0\Aspekt.InterviewApp.Mappers.csproj.CopyComplete

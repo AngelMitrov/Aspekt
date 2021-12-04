@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <LangVersion>latest</LangVersion>
+	  <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aspekt.InterviewApp.DataAccess\Aspekt.InterviewApp.DataAccess.csproj" />
+    <ProjectReference Include="..\Aspekt.InterviewApp.DTOs\Aspekt.InterviewApp.DTOs.csproj" />
+    <ProjectReference Include="..\Aspekt.InterviewApp.Mappers\Aspekt.InterviewApp.Mappers.csproj" />
+  </ItemGroup>
+
+</Project>

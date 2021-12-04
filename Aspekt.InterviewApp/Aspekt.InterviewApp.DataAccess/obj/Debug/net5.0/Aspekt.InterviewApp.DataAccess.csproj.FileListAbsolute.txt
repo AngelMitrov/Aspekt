@@ -1,0 +1,28 @@
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.deps.json
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\ref\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\ref\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.deps.json
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\ref\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.DataAccess.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.pdb
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\ref\Aspekt.InterviewApp.DataAccess.dll
+C:\Users\angel\OneDrive\Desktop\Private Repository\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.DataAccess\obj\Debug\net5.0\Aspekt.InterviewApp.DataAccess.pdb

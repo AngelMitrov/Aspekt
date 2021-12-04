@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.deps.json
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\bin\Debug\net5.0\ref\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\bin\Debug\net5.0\Aspekt.InterviewApp.Domain.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\Aspekt.InterviewApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\Aspekt.InterviewApp.Domain.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\Aspekt.InterviewApp.Domain.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\Aspekt.InterviewApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\ref\Aspekt.InterviewApp.Domain.dll
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\Aspekt.InterviewApp.Domain.pdb
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\Aspekt.InterviewApp.Domain.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\Aspekt\Aspekt.InterviewApp\Aspekt.InterviewApp.Domain\obj\Debug\net5.0\Aspekt.InterviewApp.Domain.csproj.AssemblyReference.cache
